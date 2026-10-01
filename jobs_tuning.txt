@@ -1,0 +1,6 @@
+tune_fedprox_mu0.01_s0 --method fedprox --mu 0.01 --seed 0
+tune_fedprox_mu0.01_s1 --method fedprox --mu 0.01 --seed 1
+tune_fedprox_mu0.1_s0 --method fedprox --mu 0.1 --seed 0
+tune_fedprox_mu0.1_s1 --method fedprox --mu 0.1 --seed 1
+tune_fedprox_mu1.0_s0 --method fedprox --mu 1.0 --seed 0
+tune_fedprox_mu1.0_s1 --method fedprox --mu 1.0 --seed 1

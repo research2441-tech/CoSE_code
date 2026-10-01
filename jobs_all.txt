@@ -1,0 +1,330 @@
+E1_cose_s10 --method cose --seed 10
+E1_local_s10 --method local --seed 10
+E1_fedavg_s10 --method fedavg --seed 10
+E1_fedprox_s10 --method fedprox --seed 10
+E1_ffa_s10 --method ffa --seed 10
+E1_ditto_s10 --method ditto --seed 10
+E1_gossip_s10 --method gossip --seed 10
+E1_median_s10 --method median --seed 10
+E1_ties_s10 --method ties --seed 10
+E1_cose_s11 --method cose --seed 11
+E1_local_s11 --method local --seed 11
+E1_fedavg_s11 --method fedavg --seed 11
+E1_fedprox_s11 --method fedprox --seed 11
+E1_ffa_s11 --method ffa --seed 11
+E1_ditto_s11 --method ditto --seed 11
+E1_gossip_s11 --method gossip --seed 11
+E1_median_s11 --method median --seed 11
+E1_ties_s11 --method ties --seed 11
+E1_cose_s12 --method cose --seed 12
+E1_local_s12 --method local --seed 12
+E1_fedavg_s12 --method fedavg --seed 12
+E1_fedprox_s12 --method fedprox --seed 12
+E1_ffa_s12 --method ffa --seed 12
+E1_ditto_s12 --method ditto --seed 12
+E1_gossip_s12 --method gossip --seed 12
+E1_median_s12 --method median --seed 12
+E1_ties_s12 --method ties --seed 12
+E1_cose_s13 --method cose --seed 13
+E1_local_s13 --method local --seed 13
+E1_fedavg_s13 --method fedavg --seed 13
+E1_fedprox_s13 --method fedprox --seed 13
+E1_ffa_s13 --method ffa --seed 13
+E1_ditto_s13 --method ditto --seed 13
+E1_gossip_s13 --method gossip --seed 13
+E1_median_s13 --method median --seed 13
+E1_ties_s13 --method ties --seed 13
+E1_cose_s14 --method cose --seed 14
+E1_local_s14 --method local --seed 14
+E1_fedavg_s14 --method fedavg --seed 14
+E1_fedprox_s14 --method fedprox --seed 14
+E1_ffa_s14 --method ffa --seed 14
+E1_ditto_s14 --method ditto --seed 14
+E1_gossip_s14 --method gossip --seed 14
+E1_median_s14 --method median --seed 14
+E1_ties_s14 --method ties --seed 14
+E1_cose_s15 --method cose --seed 15
+E1_local_s15 --method local --seed 15
+E1_fedavg_s15 --method fedavg --seed 15
+E1_fedprox_s15 --method fedprox --seed 15
+E1_ffa_s15 --method ffa --seed 15
+E1_ditto_s15 --method ditto --seed 15
+E1_gossip_s15 --method gossip --seed 15
+E1_median_s15 --method median --seed 15
+E1_ties_s15 --method ties --seed 15
+E1_cose_s16 --method cose --seed 16
+E1_local_s16 --method local --seed 16
+E1_fedavg_s16 --method fedavg --seed 16
+E1_fedprox_s16 --method fedprox --seed 16
+E1_ffa_s16 --method ffa --seed 16
+E1_ditto_s16 --method ditto --seed 16
+E1_gossip_s16 --method gossip --seed 16
+E1_median_s16 --method median --seed 16
+E1_ties_s16 --method ties --seed 16
+E1_cose_s17 --method cose --seed 17
+E1_local_s17 --method local --seed 17
+E1_fedavg_s17 --method fedavg --seed 17
+E1_fedprox_s17 --method fedprox --seed 17
+E1_ffa_s17 --method ffa --seed 17
+E1_ditto_s17 --method ditto --seed 17
+E1_gossip_s17 --method gossip --seed 17
+E1_median_s17 --method median --seed 17
+E1_ties_s17 --method ties --seed 17
+E1_cose_s18 --method cose --seed 18
+E1_local_s18 --method local --seed 18
+E1_fedavg_s18 --method fedavg --seed 18
+E1_fedprox_s18 --method fedprox --seed 18
+E1_ffa_s18 --method ffa --seed 18
+E1_ditto_s18 --method ditto --seed 18
+E1_gossip_s18 --method gossip --seed 18
+E1_median_s18 --method median --seed 18
+E1_ties_s18 --method ties --seed 18
+E1_cose_s19 --method cose --seed 19
+E1_local_s19 --method local --seed 19
+E1_fedavg_s19 --method fedavg --seed 19
+E1_fedprox_s19 --method fedprox --seed 19
+E1_ffa_s19 --method ffa --seed 19
+E1_ditto_s19 --method ditto --seed 19
+E1_gossip_s19 --method gossip --seed 19
+E1_median_s19 --method median --seed 19
+E1_ties_s19 --method ties --seed 19
+E2_nodrift_s10 --method cose --seed 10 --use_drift 0
+E2_nogate_s10 --method cose --seed 10 --use_gate 0
+E2_nospec_s10 --method cose --seed 10 --use_spectral 0
+E2_norout_s10 --method cose --seed 10 --use_routing 0
+E2_norep_s10 --method cose --seed 10 --use_rep 0
+E2_nounc_s10 --method cose --seed 10 --use_unc 0
+E2_nocons_s10 --method cose --seed 10 --use_cons 0
+E2_nogain_s10 --method cose --seed 10 --use_gain 0
+E2_noreval_s10 --method cose --seed 10 --revalidate 0
+E2_nodrift_s11 --method cose --seed 11 --use_drift 0
+E2_nogate_s11 --method cose --seed 11 --use_gate 0
+E2_nospec_s11 --method cose --seed 11 --use_spectral 0
+E2_norout_s11 --method cose --seed 11 --use_routing 0
+E2_norep_s11 --method cose --seed 11 --use_rep 0
+E2_nounc_s11 --method cose --seed 11 --use_unc 0
+E2_nocons_s11 --method cose --seed 11 --use_cons 0
+E2_nogain_s11 --method cose --seed 11 --use_gain 0
+E2_noreval_s11 --method cose --seed 11 --revalidate 0
+E2_nodrift_s12 --method cose --seed 12 --use_drift 0
+E2_nogate_s12 --method cose --seed 12 --use_gate 0
+E2_nospec_s12 --method cose --seed 12 --use_spectral 0
+E2_norout_s12 --method cose --seed 12 --use_routing 0
+E2_norep_s12 --method cose --seed 12 --use_rep 0
+E2_nounc_s12 --method cose --seed 12 --use_unc 0
+E2_nocons_s12 --method cose --seed 12 --use_cons 0
+E2_nogain_s12 --method cose --seed 12 --use_gain 0
+E2_noreval_s12 --method cose --seed 12 --revalidate 0
+E2_nodrift_s13 --method cose --seed 13 --use_drift 0
+E2_nogate_s13 --method cose --seed 13 --use_gate 0
+E2_nospec_s13 --method cose --seed 13 --use_spectral 0
+E2_norout_s13 --method cose --seed 13 --use_routing 0
+E2_norep_s13 --method cose --seed 13 --use_rep 0
+E2_nounc_s13 --method cose --seed 13 --use_unc 0
+E2_nocons_s13 --method cose --seed 13 --use_cons 0
+E2_nogain_s13 --method cose --seed 13 --use_gain 0
+E2_noreval_s13 --method cose --seed 13 --revalidate 0
+E2_nodrift_s14 --method cose --seed 14 --use_drift 0
+E2_nogate_s14 --method cose --seed 14 --use_gate 0
+E2_nospec_s14 --method cose --seed 14 --use_spectral 0
+E2_norout_s14 --method cose --seed 14 --use_routing 0
+E2_norep_s14 --method cose --seed 14 --use_rep 0
+E2_nounc_s14 --method cose --seed 14 --use_unc 0
+E2_nocons_s14 --method cose --seed 14 --use_cons 0
+E2_nogain_s14 --method cose --seed 14 --use_gain 0
+E2_noreval_s14 --method cose --seed 14 --revalidate 0
+E1b_local_s10 --method local --seed 10 --attackers none
+E1b_fedavg_s10 --method fedavg --seed 10 --attackers none
+E1b_fedprox_s10 --method fedprox --seed 10 --attackers none
+E1b_ffa_s10 --method ffa --seed 10 --attackers none
+E1b_ditto_s10 --method ditto --seed 10 --attackers none
+E1b_gossip_s10 --method gossip --seed 10 --attackers none
+E1b_median_s10 --method median --seed 10 --attackers none
+E1b_ties_s10 --method ties --seed 10 --attackers none
+E1b_cose_s10 --method cose --seed 10 --attackers none
+E1b_local_s11 --method local --seed 11 --attackers none
+E1b_fedavg_s11 --method fedavg --seed 11 --attackers none
+E1b_fedprox_s11 --method fedprox --seed 11 --attackers none
+E1b_ffa_s11 --method ffa --seed 11 --attackers none
+E1b_ditto_s11 --method ditto --seed 11 --attackers none
+E1b_gossip_s11 --method gossip --seed 11 --attackers none
+E1b_median_s11 --method median --seed 11 --attackers none
+E1b_ties_s11 --method ties --seed 11 --attackers none
+E1b_cose_s11 --method cose --seed 11 --attackers none
+E1b_local_s12 --method local --seed 12 --attackers none
+E1b_fedavg_s12 --method fedavg --seed 12 --attackers none
+E1b_fedprox_s12 --method fedprox --seed 12 --attackers none
+E1b_ffa_s12 --method ffa --seed 12 --attackers none
+E1b_ditto_s12 --method ditto --seed 12 --attackers none
+E1b_gossip_s12 --method gossip --seed 12 --attackers none
+E1b_median_s12 --method median --seed 12 --attackers none
+E1b_ties_s12 --method ties --seed 12 --attackers none
+E1b_cose_s12 --method cose --seed 12 --attackers none
+E1b_local_s13 --method local --seed 13 --attackers none
+E1b_fedavg_s13 --method fedavg --seed 13 --attackers none
+E1b_fedprox_s13 --method fedprox --seed 13 --attackers none
+E1b_ffa_s13 --method ffa --seed 13 --attackers none
+E1b_ditto_s13 --method ditto --seed 13 --attackers none
+E1b_gossip_s13 --method gossip --seed 13 --attackers none
+E1b_median_s13 --method median --seed 13 --attackers none
+E1b_ties_s13 --method ties --seed 13 --attackers none
+E1b_cose_s13 --method cose --seed 13 --attackers none
+E1b_local_s14 --method local --seed 14 --attackers none
+E1b_fedavg_s14 --method fedavg --seed 14 --attackers none
+E1b_fedprox_s14 --method fedprox --seed 14 --attackers none
+E1b_ffa_s14 --method ffa --seed 14 --attackers none
+E1b_ditto_s14 --method ditto --seed 14 --attackers none
+E1b_gossip_s14 --method gossip --seed 14 --attackers none
+E1b_median_s14 --method median --seed 14 --attackers none
+E1b_ties_s14 --method ties --seed 14 --attackers none
+E1b_cose_s14 --method cose --seed 14 --attackers none
+E4_a0_cose_s10 --method cose --seed 10 --attackers none
+E4_a0_median_s10 --method median --seed 10 --attackers none
+E4_a0_fedavg_s10 --method fedavg --seed 10 --attackers none
+E4_a0_fedprox_s10 --method fedprox --seed 10 --attackers none
+E4_a1_cose_s10 --method cose --seed 10 --attackers flip
+E4_a1_median_s10 --method median --seed 10 --attackers flip
+E4_a1_fedavg_s10 --method fedavg --seed 10 --attackers flip
+E4_a1_fedprox_s10 --method fedprox --seed 10 --attackers flip
+E4_a2_cose_s10 --method cose --seed 10 --attackers flip,noise
+E4_a2_median_s10 --method median --seed 10 --attackers flip,noise
+E4_a2_fedavg_s10 --method fedavg --seed 10 --attackers flip,noise
+E4_a2_fedprox_s10 --method fedprox --seed 10 --attackers flip,noise
+E4_a4_cose_s10 --method cose --seed 10 --attackers flip,noise,scale,flip
+E4_a4_median_s10 --method median --seed 10 --attackers flip,noise,scale,flip
+E4_a4_fedavg_s10 --method fedavg --seed 10 --attackers flip,noise,scale,flip
+E4_a4_fedprox_s10 --method fedprox --seed 10 --attackers flip,noise,scale,flip
+E4_a0_cose_s11 --method cose --seed 11 --attackers none
+E4_a0_median_s11 --method median --seed 11 --attackers none
+E4_a0_fedavg_s11 --method fedavg --seed 11 --attackers none
+E4_a0_fedprox_s11 --method fedprox --seed 11 --attackers none
+E4_a1_cose_s11 --method cose --seed 11 --attackers flip
+E4_a1_median_s11 --method median --seed 11 --attackers flip
+E4_a1_fedavg_s11 --method fedavg --seed 11 --attackers flip
+E4_a1_fedprox_s11 --method fedprox --seed 11 --attackers flip
+E4_a2_cose_s11 --method cose --seed 11 --attackers flip,noise
+E4_a2_median_s11 --method median --seed 11 --attackers flip,noise
+E4_a2_fedavg_s11 --method fedavg --seed 11 --attackers flip,noise
+E4_a2_fedprox_s11 --method fedprox --seed 11 --attackers flip,noise
+E4_a4_cose_s11 --method cose --seed 11 --attackers flip,noise,scale,flip
+E4_a4_median_s11 --method median --seed 11 --attackers flip,noise,scale,flip
+E4_a4_fedavg_s11 --method fedavg --seed 11 --attackers flip,noise,scale,flip
+E4_a4_fedprox_s11 --method fedprox --seed 11 --attackers flip,noise,scale,flip
+E4_a0_cose_s12 --method cose --seed 12 --attackers none
+E4_a0_median_s12 --method median --seed 12 --attackers none
+E4_a0_fedavg_s12 --method fedavg --seed 12 --attackers none
+E4_a0_fedprox_s12 --method fedprox --seed 12 --attackers none
+E4_a1_cose_s12 --method cose --seed 12 --attackers flip
+E4_a1_median_s12 --method median --seed 12 --attackers flip
+E4_a1_fedavg_s12 --method fedavg --seed 12 --attackers flip
+E4_a1_fedprox_s12 --method fedprox --seed 12 --attackers flip
+E4_a2_cose_s12 --method cose --seed 12 --attackers flip,noise
+E4_a2_median_s12 --method median --seed 12 --attackers flip,noise
+E4_a2_fedavg_s12 --method fedavg --seed 12 --attackers flip,noise
+E4_a2_fedprox_s12 --method fedprox --seed 12 --attackers flip,noise
+E4_a4_cose_s12 --method cose --seed 12 --attackers flip,noise,scale,flip
+E4_a4_median_s12 --method median --seed 12 --attackers flip,noise,scale,flip
+E4_a4_fedavg_s12 --method fedavg --seed 12 --attackers flip,noise,scale,flip
+E4_a4_fedprox_s12 --method fedprox --seed 12 --attackers flip,noise,scale,flip
+E10_off_none_s10 --method cose --seed 10 --sleeper 2 --sleeper_on 12 --audit 27 --rollback none --use_gate 0 --attackers flip
+E10_off_direct_s10 --method cose --seed 10 --sleeper 2 --sleeper_on 12 --audit 27 --rollback direct --use_gate 0 --attackers flip
+E10_off_lineage_s10 --method cose --seed 10 --sleeper 2 --sleeper_on 12 --audit 27 --rollback lineage --use_gate 0 --attackers flip
+E10_off_repair_s10 --method cose --seed 10 --sleeper 2 --sleeper_on 12 --audit 27 --rollback repair --use_gate 0 --attackers flip
+E10_off_reset_s10 --method cose --seed 10 --sleeper 2 --sleeper_on 12 --audit 27 --rollback reset --use_gate 0 --attackers flip
+E10_on_none_s10 --method cose --seed 10 --sleeper 2 --sleeper_on 12 --audit 27 --rollback none --attackers flip
+E10_on_repair_s10 --method cose --seed 10 --sleeper 2 --sleeper_on 12 --audit 27 --rollback repair --attackers flip
+E10_off_none_s11 --method cose --seed 11 --sleeper 2 --sleeper_on 12 --audit 27 --rollback none --use_gate 0 --attackers flip
+E10_off_direct_s11 --method cose --seed 11 --sleeper 2 --sleeper_on 12 --audit 27 --rollback direct --use_gate 0 --attackers flip
+E10_off_lineage_s11 --method cose --seed 11 --sleeper 2 --sleeper_on 12 --audit 27 --rollback lineage --use_gate 0 --attackers flip
+E10_off_repair_s11 --method cose --seed 11 --sleeper 2 --sleeper_on 12 --audit 27 --rollback repair --use_gate 0 --attackers flip
+E10_off_reset_s11 --method cose --seed 11 --sleeper 2 --sleeper_on 12 --audit 27 --rollback reset --use_gate 0 --attackers flip
+E10_on_none_s11 --method cose --seed 11 --sleeper 2 --sleeper_on 12 --audit 27 --rollback none --attackers flip
+E10_on_repair_s11 --method cose --seed 11 --sleeper 2 --sleeper_on 12 --audit 27 --rollback repair --attackers flip
+E10_off_none_s12 --method cose --seed 12 --sleeper 2 --sleeper_on 12 --audit 27 --rollback none --use_gate 0 --attackers flip
+E10_off_direct_s12 --method cose --seed 12 --sleeper 2 --sleeper_on 12 --audit 27 --rollback direct --use_gate 0 --attackers flip
+E10_off_lineage_s12 --method cose --seed 12 --sleeper 2 --sleeper_on 12 --audit 27 --rollback lineage --use_gate 0 --attackers flip
+E10_off_repair_s12 --method cose --seed 12 --sleeper 2 --sleeper_on 12 --audit 27 --rollback repair --use_gate 0 --attackers flip
+E10_off_reset_s12 --method cose --seed 12 --sleeper 2 --sleeper_on 12 --audit 27 --rollback reset --use_gate 0 --attackers flip
+E10_on_none_s12 --method cose --seed 12 --sleeper 2 --sleeper_on 12 --audit 27 --rollback none --attackers flip
+E10_on_repair_s12 --method cose --seed 12 --sleeper 2 --sleeper_on 12 --audit 27 --rollback repair --attackers flip
+E5_join_cose_s10 --method cose --seed 10 --joiner 1 --join_at 24
+E5_join_fedavg_s10 --method fedavg --seed 10 --joiner 1 --join_at 24
+E5_join_median_s10 --method median --seed 10 --joiner 1 --join_at 24
+E5_join_ditto_s10 --method ditto --seed 10 --joiner 1 --join_at 24
+E5_join_fedprox_s10 --method fedprox --seed 10 --joiner 1 --join_at 24
+E5_join_cose_s11 --method cose --seed 11 --joiner 1 --join_at 24
+E5_join_fedavg_s11 --method fedavg --seed 11 --joiner 1 --join_at 24
+E5_join_median_s11 --method median --seed 11 --joiner 1 --join_at 24
+E5_join_ditto_s11 --method ditto --seed 11 --joiner 1 --join_at 24
+E5_join_fedprox_s11 --method fedprox --seed 11 --joiner 1 --join_at 24
+E5_join_cose_s12 --method cose --seed 12 --joiner 1 --join_at 24
+E5_join_fedavg_s12 --method fedavg --seed 12 --joiner 1 --join_at 24
+E5_join_median_s12 --method median --seed 12 --joiner 1 --join_at 24
+E5_join_ditto_s12 --method ditto --seed 12 --joiner 1 --join_at 24
+E5_join_fedprox_s12 --method fedprox --seed 12 --joiner 1 --join_at 24
+E5_join_cose_s13 --method cose --seed 13 --joiner 1 --join_at 24
+E5_join_fedavg_s13 --method fedavg --seed 13 --joiner 1 --join_at 24
+E5_join_median_s13 --method median --seed 13 --joiner 1 --join_at 24
+E5_join_ditto_s13 --method ditto --seed 13 --joiner 1 --join_at 24
+E5_join_fedprox_s13 --method fedprox --seed 13 --joiner 1 --join_at 24
+E5_join_cose_s14 --method cose --seed 14 --joiner 1 --join_at 24
+E5_join_fedavg_s14 --method fedavg --seed 14 --joiner 1 --join_at 24
+E5_join_median_s14 --method median --seed 14 --joiner 1 --join_at 24
+E5_join_ditto_s14 --method ditto --seed 14 --joiner 1 --join_at 24
+E5_join_fedprox_s14 --method fedprox --seed 14 --joiner 1 --join_at 24
+E3_tacc35_s10 --method cose --seed 10 --tau_acc 0.35
+E3_tacc65_s10 --method cose --seed 10 --tau_acc 0.65
+E3_rk2_s10 --method cose --seed 10 --rank_c 2
+E3_rk4_s10 --method cose --seed 10 --rank_c 4
+E3_tr10_s10 --method cose --seed 10 --tau_r 0.10
+E3_tr20_s10 --method cose --seed 10 --tau_r 0.20
+E3_em2_s10 --method cose --seed 10 --emit_every 2
+E3_em6_s10 --method cose --seed 10 --emit_every 6
+E4p_p4_cose_s10 --method cose --seed 10 --p_act 0.4
+E4p_p4_median_s10 --method median --seed 10 --p_act 0.4
+E4p_p4_fedavg_s10 --method fedavg --seed 10 --p_act 0.4
+E4p_p6_cose_s10 --method cose --seed 10 --p_act 0.6
+E4p_p6_median_s10 --method median --seed 10 --p_act 0.6
+E4p_p6_fedavg_s10 --method fedavg --seed 10 --p_act 0.6
+E4p_p0_cose_s10 --method cose --seed 10 --p_act 1.0
+E4p_p0_median_s10 --method median --seed 10 --p_act 1.0
+E4p_p0_fedavg_s10 --method fedavg --seed 10 --p_act 1.0
+E3_tacc35_s11 --method cose --seed 11 --tau_acc 0.35
+E3_tacc65_s11 --method cose --seed 11 --tau_acc 0.65
+E3_rk2_s11 --method cose --seed 11 --rank_c 2
+E3_rk4_s11 --method cose --seed 11 --rank_c 4
+E3_tr10_s11 --method cose --seed 11 --tau_r 0.10
+E3_tr20_s11 --method cose --seed 11 --tau_r 0.20
+E3_em2_s11 --method cose --seed 11 --emit_every 2
+E3_em6_s11 --method cose --seed 11 --emit_every 6
+E4p_p4_cose_s11 --method cose --seed 11 --p_act 0.4
+E4p_p4_median_s11 --method median --seed 11 --p_act 0.4
+E4p_p4_fedavg_s11 --method fedavg --seed 11 --p_act 0.4
+E4p_p6_cose_s11 --method cose --seed 11 --p_act 0.6
+E4p_p6_median_s11 --method median --seed 11 --p_act 0.6
+E4p_p6_fedavg_s11 --method fedavg --seed 11 --p_act 0.6
+E4p_p0_cose_s11 --method cose --seed 11 --p_act 1.0
+E4p_p0_median_s11 --method median --seed 11 --p_act 1.0
+E4p_p0_fedavg_s11 --method fedavg --seed 11 --p_act 1.0
+E3_tacc35_s12 --method cose --seed 12 --tau_acc 0.35
+E3_tacc65_s12 --method cose --seed 12 --tau_acc 0.65
+E3_rk2_s12 --method cose --seed 12 --rank_c 2
+E3_rk4_s12 --method cose --seed 12 --rank_c 4
+E3_tr10_s12 --method cose --seed 12 --tau_r 0.10
+E3_tr20_s12 --method cose --seed 12 --tau_r 0.20
+E3_em2_s12 --method cose --seed 12 --emit_every 2
+E3_em6_s12 --method cose --seed 12 --emit_every 6
+E4p_p4_cose_s12 --method cose --seed 12 --p_act 0.4
+E4p_p4_median_s12 --method median --seed 12 --p_act 0.4
+E4p_p4_fedavg_s12 --method fedavg --seed 12 --p_act 0.4
+E4p_p6_cose_s12 --method cose --seed 12 --p_act 0.6
+E4p_p6_median_s12 --method median --seed 12 --p_act 0.6
+E4p_p6_fedavg_s12 --method fedavg --seed 12 --p_act 0.6
+E4p_p0_cose_s12 --method cose --seed 12 --p_act 1.0
+E4p_p0_median_s12 --method median --seed 12 --p_act 1.0
+E4p_p0_fedavg_s12 --method fedavg --seed 12 --p_act 1.0
+E2_noquar_s10 --method cose --seed 10 --rho_q 0.0
+E2_noquar_s11 --method cose --seed 11 --rho_q 0.0
+E2_noquar_s12 --method cose --seed 12 --rho_q 0.0
+E2_noquar_s13 --method cose --seed 13 --rho_q 0.0
+E2_noquar_s14 --method cose --seed 14 --rho_q 0.0

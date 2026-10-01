@@ -1,0 +1,12 @@
+{
+ "infer_ms_per_sample_C0": 0.12091211542966107,
+ "infer_ms_per_sample_C10": 0.20026899218734684,
+ "infer_ms_per_sample_C20": 0.20509762187472802,
+ "infer_ms_per_sample_C40": 0.23718169316424564,
+ "train_step_ms": 13.361098050154396,
+ "encode_ms": 34.605835399997886,
+ "capsule_kb_fp32": 288.125,
+ "lora_params": 73728,
+ "gate_ms": 84.31438640036504,
+ "spectral_ms": 59.12362319941167
+}
